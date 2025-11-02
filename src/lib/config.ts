@@ -2,9 +2,8 @@
 
 export const config = {
   openai: {
-    apiKey: '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',
-    model: 'gpt-4o-mini', // Fast, cost-effective model
-    // model: 'gpt-4o', // Use this for even better responses (higher cost)
+    apiKey: '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', // Fast, cost-effective model
+    
     temperature: 0.7,
     maxTokens: 500,
   },
