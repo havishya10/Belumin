@@ -1,5 +1,8 @@
 
-  # BeLumin 
+  # BeLumin ## Live Demo
+Check out the live demo of BeLumin [here](https://float-bend-09984940.figma.site).
+
+  
 
   ## Running the code
 
