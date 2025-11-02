@@ -2,7 +2,7 @@
 
 export const config = {
   openai: {
-    apiKey: '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',
+    apiKey: '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',
     model: 'gpt-4o-mini', // Fast, cost-effective model
     // model: 'gpt-4o', // Use this for even better responses (higher cost)
     temperature: 0.7,
