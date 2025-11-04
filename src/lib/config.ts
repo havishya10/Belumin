@@ -2,7 +2,7 @@
 
 export const config = {
   openai: {
-    apiKey: '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', // Fast, cost-effective model
+    apiKey: 'AIzaSyCtBN2ginhllLHAeMoCS7OO0HNgTrUX9rE', // Fast, cost-effective model
     
     temperature: 0.7,
     maxTokens: 500,
